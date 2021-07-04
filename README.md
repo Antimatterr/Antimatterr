@@ -27,7 +27,7 @@
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
-- ![image](https://user-images.githubusercontent.com/56473894/124381261-2e726a00-dcdf-11eb-99a7-0c791429f78d.png)
+- ![image style="width:100px"](https://user-images.githubusercontent.com/56473894/124381261-2e726a00-dcdf-11eb-99a7-0c791429f78d.png)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
