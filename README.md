@@ -30,6 +30,9 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite)
+- ☁  &nbsp;
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=for-the-badge&logo=Heroku)
+  ![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=for-the-badge&logo=XAMPP) 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
@@ -48,7 +51,7 @@
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/sidhant-singh-063a691b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sidhant%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sidhant-singh-063a691b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sidhant%20Singh-blue?style=for-the-badge&logo=linkedin"></a>
 <!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
 <!-- <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a> -->
 </p>
