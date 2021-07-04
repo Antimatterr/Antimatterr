@@ -26,7 +26,7 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
