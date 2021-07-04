@@ -13,9 +13,9 @@
 <h3> 🛠 &nbsp;Tech & Tools</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=Java&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-659ad2?style=flat-square&logo=C%2B%2B&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
@@ -25,7 +25,7 @@
   ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
   ![Express](https://img.shields.io/badge/-Express-787878?style=flat-square&logo=Express)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=PHP)
+  ![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-119149?style=flat-square&logo=mongodb)
