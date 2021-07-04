@@ -34,15 +34,15 @@
   ![Heroku](https://img.shields.io/badge/-Heroku-6324e0?style=flat-square&logo=Heroku)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-fb7a24?style=flat-square&logo=XAMPP&logoColor=white) 
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![Git](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
 <a href="https://github.com/Antimatterr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antimatterr&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antimatterr&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antimatterr&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antimatterr&theme=dark&layout=compact" />
 </a>
 
 <br/>
