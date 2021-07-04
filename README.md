@@ -27,7 +27,7 @@
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
-- ![img](https://image.flaticon.com/icons/png/512/4305/4305631.png=100x100)
+  ![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=xampp)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
