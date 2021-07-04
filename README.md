@@ -15,7 +15,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=Java&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-659ad2?style=flat-square&logo=C%2B%2B&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -41,8 +41,8 @@
 <br/>
 
 <a href="https://github.com/Antimatterr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antimatterr&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antimatterr&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antimatterr&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antimatterr&layout=compact" />
 </a>
 
 <br/>
