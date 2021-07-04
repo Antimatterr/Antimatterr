@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Antimatterr/Antimatterr/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Aditya.</h2>
+<!-- <img src="https://raw.githubusercontent.com/Antimatterr/Antimatterr/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+ -->
+<h2> Hey there! I'm Sidhant.</h2>
 
 <!-- <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
