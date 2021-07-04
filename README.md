@@ -13,31 +13,31 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Java&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=Express)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=PHP)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat-square&logo=Express)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=PHP)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=for-the-badge&logo=sqlite)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat-square&logo=sqlite)
 - ☁ &nbsp;
-  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=for-the-badge&logo=Heroku)
-  ![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=for-the-badge&logo=XAMPP) 
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=Heroku)
+  ![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=flat-square&logo=XAMPP) 
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
 <a href="https://github.com/Antimatterr">
@@ -51,7 +51,7 @@
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/sidhant-singh-063a691b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sidhant%20Singh-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sidhant-singh-063a691b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sidhant%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
 <!-- <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a> -->
 </p>
