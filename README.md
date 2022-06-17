@@ -11,7 +11,9 @@
 
 <br/>
 
-<img height="180em" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" />
+<h3> 📛 &nbsp;Achievements</h3>
+
+<img height="80em" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" />
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
