@@ -2,7 +2,7 @@
  -->
 <h2> Hey there! I'm Sidhant.</h2>
 
-
+![](https://komarev.com/ghpvc/?username=Antimatterr)
 
 <a href="https://github.com/Antimatterr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antimatterr&theme=dark&show_icons=true" />
