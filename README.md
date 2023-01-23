@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/Antimatterr/Antimatterr/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
  -->
-<h2> Hey there! I'm Sidhant.</h2>
+<!-- <h2> Hey there! I'm Sidhant.</h2>
 
 ![](https://komarev.com/ghpvc/?username=Antimatterr)
 
@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntimatterR&theme=dark&layout=compact" />
 </a>
 
-<br/>
+<br/> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
