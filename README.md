@@ -6,10 +6,12 @@
 
 <a href="https://github.com/Antimatterr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antimatterr&theme=dark&show_icons=true" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntimatterR&theme=dark&layout=compact" />
 </a>
 
 <br/> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antimatterr&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
