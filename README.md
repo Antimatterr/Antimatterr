@@ -13,7 +13,9 @@
 <br/> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antimatterr&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Antimatterr&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antimatterr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
