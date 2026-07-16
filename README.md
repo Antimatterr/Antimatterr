@@ -11,7 +11,7 @@
 </a>
 
 <br/> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antimatterr&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
+![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antimatterr&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Antimatterr&theme=dark)](https://git.io/streak-stats)
 
